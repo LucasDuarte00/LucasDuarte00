@@ -11,7 +11,8 @@
 # - 📫 Como entrar em contato comigo: lucasduartedias46@gmail.com
 # - 🖥️ Programador
 
-![ColePalmerColdPalmerGIF (2)](https://github.com/user-attachments/assets/5ceee7d6-d801-489f-8b45-4e3fcede8f9d)
+![ColePalmerColdPalmerGIF](https://github.com/user-attachments/assets/996bac16-8b6e-458b-a0b7-15f338625723)
+
 
 
 # 🌐 Socials:
