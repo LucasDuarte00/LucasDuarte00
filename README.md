@@ -1,7 +1,7 @@
 ## Olá! Eu sou Lucas Duarte 👋
 
 
-**LucasDuarte00/LucasDuarte00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🎯 Desenvolvedor 
 - 🌱 Aprendendo sobre: PYTHON
@@ -9,3 +9,7 @@
 - 😄 Pronomes: Ele/Dele
 
 
+# 🌐 Socials:
+<br>
+ <div align="center">
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
