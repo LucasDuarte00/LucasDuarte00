@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Eae+rapaziadinha!,+bem+vindos+ao+meu+Git+Hub%22+))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Eae+rapaziadinha!+Bem+vindos+ao+meu+Git+Hub%22+))](https://git.io/typing-svg)
 
 
 ### Olá! Eu sou Lucas Duarte 😁
@@ -6,12 +6,17 @@
 
 
 
-# - 🎯 Desenvolvedor | Apaixonado por tecnologia
-# - 🌱 Aprendendo sobre: PYTHON
-# - 📫 Como entrar em contato comigo: lucasduartedias46@gmail.com
-# - 🖥️ Programador
+#  🙎‍♂️ Sobre mim
+- 🖥️ Estudante de PYTHON
+- ⚙️Tecnologias: PYTHON, VScode
+- 🎓 Téc.Administração
+- ❤️ Apaixonado em tecnologia
+#  📫 Como entrar em contato comigo:
+- Email: lucasduartedias46@gmail.com
+- Linkedin: Lucas Duarte
 
-![ColePalmerColdPalmerGIF](https://github.com/user-attachments/assets/996bac16-8b6e-458b-a0b7-15f338625723)
+
+![MuzanKibutsujiGIF](https://github.com/user-attachments/assets/80f9e537-ee9f-4caa-8e66-18cf6723cd1d)
 
 
 
@@ -25,8 +30,14 @@
   </div>
 <br>
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="15" />
+ 
 
-> _"“Cofia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos.”"_ ✝️
+> _"“Confia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos.”"_ ✝️
 > — **Provérbios 3:5-6**
 
-<p align="center"><i> Tmj irmão(a) 👨‍💻 ! </i></p>
+<p align="center"><i> Obrigado por visualizar meu perfil 👨‍💻 ! </i></p>
