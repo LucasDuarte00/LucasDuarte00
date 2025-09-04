@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Eae+rapaziadinha!,+bem+vindos+ao+meu+Git+Hub%22+))](https://git.io/typing-svg)
 
 
-### Olá! Eu sou Lucas Duarte 👋
+### Olá! Eu sou Lucas Duarte 😁
 
 
 
@@ -9,7 +9,7 @@
 # - 🎯 Desenvolvedor | Apaixonado por tecnologia
 # - 🌱 Aprendendo sobre: PYTHON
 # - 📫 Como entrar em contato comigo: lucasduartedias46@gmail.com
-# - 😄 Programador
+# - 🖥️ Programador
 
 ![ColePalmerColdPalmerGIF (2)](https://github.com/user-attachments/assets/5ceee7d6-d801-489f-8b45-4e3fcede8f9d)
 
@@ -25,7 +25,7 @@
 <br>
 
 
-> _"“Cofia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos.”"_ 🕸️
+> _"“Cofia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos.”"_ ✝️
 > — **Provérbios 3:5-6**
 
-<p align="center"><i> Vlw por visitar 👨‍💻 ! </i></p>
+<p align="center"><i> Tmj irmão(a) 👨‍💻 ! </i></p>
