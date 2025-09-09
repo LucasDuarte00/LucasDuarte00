@@ -3,7 +3,7 @@
 
 ### Olá! Eu sou Lucas Duarte 😁
 
-![MuzanKibutsujiGIF](https://github.com/user-attachments/assets/80f9e537-ee9f-4caa-8e66-18cf6723cd1d)
+
 
 
 #  🙎‍♂️ Sobre mim
