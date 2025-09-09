@@ -3,6 +3,8 @@
 
 ### Olá! Eu sou Lucas Duarte 😁
 
+![ezgif com-resize](https://github.com/user-attachments/assets/92ac9dd5-99f6-4d64-9d50-371a196ac3db)
+
 
 
 
@@ -16,6 +18,8 @@
 
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasDuarte00&theme=transparent)                                                     ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasDuarte00&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasDuarte00&theme=transparent)
 
 
 
@@ -32,7 +36,9 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="15" />
- 
+
+
+
 
 > _"“Confia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos.”"_ ✝️
 > — **Provérbios 3:5-6**
