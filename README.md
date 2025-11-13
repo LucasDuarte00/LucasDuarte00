@@ -3,7 +3,7 @@
 
 ### Olá! Eu sou Lucas Duarte 😁
 
-![ezgif com-resize](https://github.com/user-attachments/assets/92ac9dd5-99f6-4d64-9d50-371a196ac3db)
+
 
 
 
