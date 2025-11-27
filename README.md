@@ -43,7 +43,7 @@
 > _"“Confia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos.”"_ ✝️
 > — **Provérbios 3:5-6**
 
-<p align="center"><i> Obrigado por visualizar meu perfil 👨‍💻 ! </i></p>
+<p align="center"><i>  👨‍💻  </i></p>
 
 
 
