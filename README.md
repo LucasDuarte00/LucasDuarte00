@@ -11,7 +11,7 @@
 #  🙎‍♂️ Sobre mim
 - 🖥️ Estudante de PYTHON
 - ⚙️Tecnologias: PYTHON, VScode
-- 🎓 Téc.Administração
+
 
 #  📫 Como entrar em contato comigo:
 - Email: lucasduartedias46@gmail.com
