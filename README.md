@@ -57,7 +57,7 @@ No momento, estou focado em aprimorar minhas habilidades em desenvolvimento de s
 > _"“Confia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos.”"_ ✝️
 > — **Provérbios 3:5-6**
 
-<p align="center"><i>  👨‍💻  </i></p>
+<p align="center"><i>    </i></p>
 
 
 
