@@ -9,7 +9,7 @@
 
 
 #  Sobre mim
-- Tenho 17 anos e sou apaixonado por tecnologia, programação e desenvolvimento de soluções. Sou formado em Programação em Python e atualmente estou cursando Técnico em Desenvolvimento de Sistemas, buscando constantemente aprimorar meus conhecimentos e transformar ideias em projetos reais.
+Tenho 17 anos e sou apaixonado por tecnologia, programação e desenvolvimento de soluções. Sou formado em Programação em Python e atualmente estou cursando Técnico em Desenvolvimento de Sistemas, buscando constantemente aprimorar meus conhecimentos e transformar ideias em projetos reais.
 
 Tenho experiência e conhecimentos em diversas tecnologias e ferramentas, principalmente nas áreas de desenvolvimento web, programação, banco de dados e análise de dados.
 No momento, estou focado em aprimorar minhas habilidades em desenvolvimento de sistemas, aprofundar meus conhecimentos em Python, desenvolvimento web, bancos de dados e outras tecnologias, além de construir projetos para compor meu portfólio.
